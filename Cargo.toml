@@ -1,0 +1,8 @@
+[package]
+name = "idl-converter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde_json = "1.0.138"
+solana-idl-converter = "0.2.0"
